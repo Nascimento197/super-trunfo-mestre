@@ -1,4 +1,4 @@
-# Super Trunfo – Nível Mestre (em C)
+# Super Trunfo – Nível Mestre
 
 Este projeto é a versão **Nível Mestre** do jogo **Super Trunfo**, implementado em linguagem **C**.  
 Ele amplia as funcionalidades anteriores, permitindo comparar dois atributos diferentes entre as cartas de países, com menus dinâmicos, soma de atributos e regras especiais.
@@ -24,7 +24,7 @@ Ele amplia as funcionalidades anteriores, permitindo comparar dois atributos dif
  Instale o compilador [MinGW](http://mingw-w64.org) ou utilize o `gcc` via WSL/PowerShell.  
  Clone este repositório no seu computador:
 
-   ```bash
+   
    git clone https://github.com/SEU_USUARIO/super-trunfo-mestre.git
    cd super-trunfo-mestre
 
